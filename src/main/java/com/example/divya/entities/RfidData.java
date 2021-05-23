@@ -1,5 +1,5 @@
 package com.example.divya.entities;
-
+//divya
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
